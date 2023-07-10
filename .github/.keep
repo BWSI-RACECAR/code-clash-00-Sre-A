@@ -1,0 +1,2 @@
+hello-world = input("enter: ")
+print(hello-world)
